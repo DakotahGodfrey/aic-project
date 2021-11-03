@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchBar /> matches the snapshot 1`] = `
+<form
+  class="sc-bdnxRM hGSUJh"
+>
+  <input
+    placeholder="Search"
+    required=""
+    type="search"
+    value=""
+  />
+  <button
+    class="material-icons"
+    disabled=""
+    type="submit"
+  >
+    search
+  </button>
+</form>
+`;

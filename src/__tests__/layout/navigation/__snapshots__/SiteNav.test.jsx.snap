@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SiteNav /> matches the snapshot 1`] = `
+<nav
+  class="SiteNav__PageNav-sc-gqtbjf-0 gfyDmB"
+>
+  <div
+    class="SiteNav__Logo-sc-gqtbjf-1 bdklag"
+  >
+    <a
+      href="/"
+      id="home"
+    >
+      <span
+        class="material-icons"
+      >
+        home
+      </span>
+    </a>
+  </div>
+  <ul>
+    <li>
+      <a
+        href="/test"
+      >
+        Test
+      </a>
+    </li>
+    <li>
+      <a
+        href="/test2"
+      >
+        Test2
+      </a>
+    </li>
+    <li>
+      <a
+        href="/test3"
+      >
+        Test3
+      </a>
+    </li>
+    <li>
+      <button
+        aria-pressed="true"
+        class="sc-gtsrHT bsVBCn"
+      >
+        <i
+          class="material-icons"
+        >
+          light_mode
+        </i>
+      </button>
+    </li>
+  </ul>
+</nav>
+`;

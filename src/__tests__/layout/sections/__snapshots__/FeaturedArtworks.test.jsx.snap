@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FeaturedArtworks /> matches the snapshot 1`] = `
+<div>
+  <section
+    class="sc-bdnxRM faqwCb"
+  >
+    <a
+      href="/gallery/artwork/a"
+    >
+      <figure
+        class="sc-gtsrHT bbAVtq"
+      >
+        <img
+          alt="test"
+          src="https://www.artic.edu/iiif/2/absasdfsd/full/843,/0/default.jpg"
+        />
+        <figcaption>
+          <p
+            class="title"
+          >
+            A
+          </p>
+          <p
+            class="secondary"
+          >
+            testArtistA
+          </p>
+          <p
+            class="secondary"
+          >
+            testMediumA
+          </p>
+          <p
+            class="secondary"
+          >
+            testDateA
+          </p>
+        </figcaption>
+      </figure>
+    </a>
+    <a
+      href="/gallery/artwork/b"
+    >
+      <figure
+        class="sc-gtsrHT bbAVtq"
+      >
+        <img
+          alt="test"
+          src="https://www.artic.edu/iiif/2/absasdfsd/full/843,/0/default.jpg"
+        />
+        <figcaption>
+          <p
+            class="title"
+          >
+            B
+          </p>
+          <p
+            class="secondary"
+          >
+            testArtistB
+          </p>
+          <p
+            class="secondary"
+          >
+            testMediumB
+          </p>
+          <p
+            class="secondary"
+          >
+            testDateB
+          </p>
+        </figcaption>
+      </figure>
+    </a>
+  </section>
+</div>
+`;

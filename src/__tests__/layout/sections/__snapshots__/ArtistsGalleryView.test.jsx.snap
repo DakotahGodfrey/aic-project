@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ArtistsGallery /> matches the snapshot 1`] = `
+<section
+  class="sc-bdnxRM faqwCb"
+>
+  <a
+    href="/artists/1"
+  >
+    <figure
+      class="sc-gtsrHT bbAVtq"
+    >
+      <img
+        alt="image1alt"
+        src="https://www.artic.edu/iiif/2/1/full/843,/0/default.jpg"
+      />
+      <figcaption>
+        <p
+          class="title"
+        >
+          artist 1
+        </p>
+      </figcaption>
+    </figure>
+  </a>
+  <a
+    href="/artists/2"
+  >
+    <figure
+      class="sc-gtsrHT bbAVtq"
+    >
+      <img
+        alt="image2alt"
+        src="https://www.artic.edu/iiif/2/2/full/843,/0/default.jpg"
+      />
+      <figcaption>
+        <p
+          class="title"
+        >
+          artist 2
+        </p>
+      </figcaption>
+    </figure>
+  </a>
+  <a
+    href="/artists/3"
+  >
+    <figure
+      class="sc-gtsrHT bbAVtq"
+    >
+      <img
+        alt="image3alt"
+        src="https://www.artic.edu/iiif/2/3/full/843,/0/default.jpg"
+      />
+      <figcaption>
+        <p
+          class="title"
+        >
+          artist 3
+        </p>
+      </figcaption>
+    </figure>
+  </a>
+</section>
+`;

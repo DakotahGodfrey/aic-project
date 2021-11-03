@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Artist should render 1`] = `
+<div>
+  <main
+    class="sc-gtsrHT cYYOiy"
+  >
+    <header
+      class="SectionHeader-sc-1gpo88d-0 ZdQJP"
+    >
+      <h3>
+        Related Artworks
+      </h3>
+    </header>
+    <section
+      class="sc-dlnjwi kHKgNa"
+    >
+      <figure
+        class="sc-hKFxyN gFUwJC"
+      >
+        <img
+          src="placeholder.svg"
+        />
+        <figcaption>
+          <div
+            class="sc-iCoGMd gMBxgk"
+          >
+            Loading
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+          </div>
+        </figcaption>
+      </figure>
+      <figure
+        class="sc-hKFxyN gFUwJC"
+      >
+        <img
+          src="placeholder.svg"
+        />
+        <figcaption>
+          <div
+            class="sc-iCoGMd gMBxgk"
+          >
+            Loading
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+          </div>
+        </figcaption>
+      </figure>
+      <figure
+        class="sc-hKFxyN gFUwJC"
+      >
+        <img
+          src="placeholder.svg"
+        />
+        <figcaption>
+          <div
+            class="sc-iCoGMd gMBxgk"
+          >
+            Loading
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+          </div>
+        </figcaption>
+      </figure>
+      <figure
+        class="sc-hKFxyN gFUwJC"
+      >
+        <img
+          src="placeholder.svg"
+        />
+        <figcaption>
+          <div
+            class="sc-iCoGMd gMBxgk"
+          >
+            Loading
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+          </div>
+        </figcaption>
+      </figure>
+      <figure
+        class="sc-hKFxyN gFUwJC"
+      >
+        <img
+          src="placeholder.svg"
+        />
+        <figcaption>
+          <div
+            class="sc-iCoGMd gMBxgk"
+          >
+            Loading
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+          </div>
+        </figcaption>
+      </figure>
+      <figure
+        class="sc-hKFxyN gFUwJC"
+      >
+        <img
+          src="placeholder.svg"
+        />
+        <figcaption>
+          <div
+            class="sc-iCoGMd gMBxgk"
+          >
+            Loading
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+            <div>
+              .
+            </div>
+          </div>
+        </figcaption>
+      </figure>
+    </section>
+    <button
+      aria-label="Load More"
+      class="sc-fujyAs hcZibb"
+      disabled=""
+    >
+      Load More
+       
+      <i
+        aria-hidden="true"
+        class="material-icons"
+      >
+        keyboard_arrow_down
+      </i>
+    </button>
+  </main>
+</div>
+`;

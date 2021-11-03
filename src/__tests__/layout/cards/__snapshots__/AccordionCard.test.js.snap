@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AccordionCard should render 1`] = `
+<div
+  class="sc-bdnxRM cwgERM"
+>
+  <button
+    aria-expanded="false"
+  >
+    <span
+      class="material-icons"
+    >
+      add
+    </span>
+  </button>
+  <div
+    class="body"
+    role="dialog"
+  >
+    <p />
+  </div>
+</div>
+`;

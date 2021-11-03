@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ArtworkInfo /> matches the snapshot 1`] = `
+<div>
+  <div>
+    <div>
+      <div
+        class="sc-bdnxRM cIIiTt"
+      >
+        <h1>
+          Artwork Title
+        </h1>
+        <p>
+          Date
+        </p>
+        <p
+          class="artist-display"
+        >
+          Artist Name
+        </p>
+      </div>
+      <dl
+        class="sc-dlnjwi jIUoQh"
+      >
+        <dt>
+          Artist
+        </dt>
+        <dd>
+          Artist Title
+        </dd>
+        <dt>
+          Origin
+        </dt>
+        <dd>
+          Place of Origin
+        </dd>
+        <dt>
+          Medium
+        </dt>
+        <dd>
+          Medium display
+        </dd>
+        <dt>
+          Dimensions
+        </dt>
+        <dd>
+          Dimensions text
+        </dd>
+        <dt>
+          Credit Line
+        </dt>
+        <dd>
+          credit line text
+        </dd>
+        <dt>
+          Reference Number #
+        </dt>
+        <dd>
+          main reference number 34
+        </dd>
+      </dl>
+    </div>
+    <div
+      class="sc-gtsrHT hdYhOt"
+    >
+      <button
+        aria-expanded="false"
+      >
+        Publication History
+        <span
+          class="material-icons"
+        >
+          add
+        </span>
+      </button>
+      <ul
+        class="body"
+      >
+        <li>
+          publication history
+        </li>
+      </ul>
+    </div>
+    <div
+      class="sc-gtsrHT hdYhOt"
+    >
+      <button
+        aria-expanded="false"
+      >
+        Exhibition History
+        <span
+          class="material-icons"
+        >
+          add
+        </span>
+      </button>
+      <ul
+        class="body"
+      >
+        <li>
+          exhibition history
+        </li>
+      </ul>
+    </div>
+    <div
+      class="sc-gtsrHT hdYhOt"
+    >
+      <button
+        aria-expanded="false"
+      >
+        Provenance
+        <span
+          class="material-icons"
+        >
+          add
+        </span>
+      </button>
+      <div
+        class="body"
+        role="dialog"
+      >
+        <p>
+          provenance text
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
