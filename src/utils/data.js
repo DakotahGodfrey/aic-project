@@ -1,7 +1,7 @@
 const siteLinks = [
-  { display: 'gallery', path: '/gallery', id: 1 },
-  { display: 'artists', path: '/artists', id: 2 },
-  { display: 'about', path: '/about', id: 3 },
+  { display: 'Gallery', path: '/gallery', id: 1 },
+  { display: 'Artists', path: '/artists', id: 2 },
+  { display: 'About', path: '/about', id: 3 },
 ];
 
 const mediaQueries = {

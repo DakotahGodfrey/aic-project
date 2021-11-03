@@ -18,7 +18,6 @@ import SearchBar from 'components/layout/Search';
 import { ErrorMessage } from 'components/layout/ErrorMessage';
 import { mediaQueries } from 'utils/data';
 import useViewport from 'utils/hooks/useViewport';
-import { BouncyEllipsis } from 'components/layout/loaders';
 
 const Gallery = () => {
   const dispatch = useDispatch();
